@@ -1,0 +1,16 @@
+.wintersale {
+    width: 80vw;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 5px;
+}
+
+.wintersale-container {
+    display: flex;
+    gap: 20px;
+}
+
+.wintersale-sidebar {
+    width: 20vw;
+    padding-left: 70px;
+}

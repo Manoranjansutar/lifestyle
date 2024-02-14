@@ -1,0 +1,14 @@
+.slick{
+   margin: auto; 
+   width: 100vw;
+}
+.slick div img{
+    margin: auto;
+    border-radius: 20px;
+    width: 100%;
+}
+
+/* .slick-arrow{
+    background-color: red !important;
+} */
+

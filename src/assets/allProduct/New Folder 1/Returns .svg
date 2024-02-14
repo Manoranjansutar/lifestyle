@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_returnpolicy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_returnpolicy">
+            <rect id="Rectangle-2" x="0" y="0" width="50" height="50"></rect>
+            <g transform="translate(2.000000, 2.000000)" stroke-width="1.34918919" stroke-linecap="round">
+                <polyline id="Stroke-3364" stroke="#231F20" stroke-linejoin="round" points="22.9518223 44.122449 0 44.122449 0 0 23.557398 0 34.2653061 10.505345 34.2653061 21.0984534"></polyline>
+                <path d="M6.10204082,8.44897959 L16.8979592,8.44897959" id="Stroke-2832" stroke="#231F20"></path>
+                <path d="M6.10204082,15.9591837 L28.1632653,15.9591837" id="Stroke-2833" stroke="#231F20"></path>
+                <path d="M6.10204082,23.0601779 L28.0902494,23.0601779" id="Stroke-2834" stroke="#231F20"></path>
+                <path d="M6.10204082,30.570382 L20.5800454,30.570382" id="Stroke-2835" stroke="#231F20"></path>
+                <path d="M6.10204082,37.5510204 L19.7142857,37.5510204" id="Stroke-2836" stroke="#231F20"></path>
+                <polyline id="Stroke-3365" stroke="#231F20" stroke-linejoin="round" points="23.4693878 0 23.4693878 10.3265306 34.2653061 10.3265306"></polyline>
+                <path d="M37.4243408,46.0450751 C31.8382665,47.6764063 25.9887975,44.4602024 24.362072,38.8619381 C22.7342929,33.2636739 25.9445472,27.4035519 31.5316751,25.7711647 C37.1156422,24.1398335 42.9640576,27.3570932 44.5918367,32.9553575" id="Stroke-5337" stroke="#000000"></path>
+                <polyline id="Stroke-5338" stroke="#000000" stroke-linejoin="round" points="46 27.2244898 44.5705382 32.8571429 38.9591837 31.4238063"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

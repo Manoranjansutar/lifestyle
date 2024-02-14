@@ -1,0 +1,28 @@
+.offers-container{
+    padding: 40px 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+.offers-title{
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}
+
+.offers-images{
+    padding: 20px 70px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.offers-images img{
+    width: 100%;
+}
+
+.download-image{
+    width: 100vw;
+}

@@ -1,0 +1,14 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    /* font-family: sans-serif; */
+    font-family: 'Source Code Pro', monospace;
+}
+
+root{
+    --swiper-navigation-size: 20px !important;
+}

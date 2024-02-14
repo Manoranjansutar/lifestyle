@@ -1,0 +1,9 @@
+.slick{
+    width: 90%;
+}
+.slick img{
+    margin: auto;
+    border-radius: 20px;
+    width: 90%;
+    cursor: pointer;
+}

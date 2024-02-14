@@ -1,0 +1,87 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 100px;
+    background-color: white;
+}
+
+.sidebar-filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #d4d4d8;
+    height: 40px;
+}
+
+.sidebar-clear{
+    color: green;
+    font-size: 12px;
+}
+
+.sidebar-filter h5{
+    font-weight: 600;
+}
+
+.sidebar-filter p{
+    font-size: 12px;
+}
+
+.sidebar-price{
+    border-bottom: 1px solid #d4d4d8;
+}
+
+
+  
+.sidebar-price input[type='range']{ 
+    accent-color: green; 
+}
+
+.sidebar-checkbox{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #27272a;
+    font-size: 12px;
+}
+
+.sidebar-category ,.sidebar-categories,.sidebar-color,.sidebar-brands{
+    border-bottom: 1px solid #d4d4d8;
+}
+
+.sidebar-checkbox input[type='checkbox']{ 
+    accent-color: green; 
+}
+
+
+
+.sidebar-checkbox .sidebar-checkbox-color{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.white-checkbox{
+    background-color: white;
+    border: 1px solid grey;
+}
+
+.black-checkbox{
+    background-color: black;
+}
+.red-checkbox{
+    background-color: red;
+}
+.blue-checkbox{
+    background-color: blue;
+}
+.green-checkbox{
+    background-color: green;
+}
+.yellow-checkbox{
+    background-color: yellow;
+}
+
+
+

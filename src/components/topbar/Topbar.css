@@ -1,0 +1,34 @@
+.top-bar{
+    background: #000;
+    color: white;
+    font-weight: 400;
+    height: 40px;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    padding:  0 70px;
+    font-size: 14px;
+}
+
+.top-bar-left{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    text-align: center;
+}
+
+.offers{
+    width: 20px;
+}
+
+.top-bar-left p{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.top-bar-right{
+    width: 60%;
+}
+

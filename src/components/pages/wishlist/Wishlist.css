@@ -1,0 +1,10 @@
+.wishlist-title{
+    font-size: 24px;
+    padding: 20px 120px;
+}
+
+.wishlist-items-container{
+
+    display: flex;
+    gap: 100px;
+}

@@ -1,0 +1,17 @@
+
+.tshirt-container{
+        display: flex;
+        gap: 15px;
+}
+
+.tshirt-sidebar{
+        width: 20vw;
+        padding-left: 70px;
+}
+
+.tshirt{
+        width: 80vw;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        gap: 10px;
+}
